@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align='center>
-  Hello there</br>I'm João (or John)
+  Hello there<br>I'm João (or John)
   </h1>
 
   
