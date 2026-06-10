@@ -1,5 +1,11 @@
-[![Header](https://www.nasa.gov/image-detail/amf-art002e023710/)](https://www.flickr.com/photos/nasa2explore/55249309210/in/photostream/)
-
+<p align="center">
+  <a href="https://www.flickr.com/photos/nasa2explore/55249309210/in/photostream/">
+    <img src="https://live.staticflickr.com/65535/55249309210_dc5358b94b_b.jpg" alt="A Sliver of Earth" width="1024"/>
+  </a>
+</p>
+<h1 align='center>
+  Hello there</br>I'm João (or John)
+  </h1>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
