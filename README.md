@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.flickr.com/photos/nasa2explore/55249309210/in/photostream/">
-    <img src="https://live.staticflickr.com/65535/55249309210_dc5358b94b_b.jpg" alt="A Sliver of Earth" width="1024"/>
+    <img src="https://live.staticflickr.com/65535/55249309210_dc5358b94b_c.jpg" alt="A Sliver of Earth" width="800"/>
   </a>
 </p>
 <h1 align='center>
