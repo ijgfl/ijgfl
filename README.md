@@ -12,6 +12,7 @@ I'm passionate about gaming, game development, ethical AI, and computer hardware
 
 <div align='center'>
 📫 How to reach me:
+  
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn-white&logoColor=white)](https://www.linkedin.com/in/joaoguilhermedefreitaslima/)
 </div>
 
