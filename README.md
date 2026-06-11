@@ -14,15 +14,8 @@ I'm passionate about gaming, game development, ethical AI, and computer hardware
 📫 How to reach me:
   
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn-white&logoColor=white)](https://www.linkedin.com/in/joaoguilhermedefreitaslima/)
-</div>
 
-- 🔭 I’m currently a student of computer science at CESAR school
-- 🌱 I’m currently learning Python and AI
-- 👯 I’m looking to collaborate on college projects
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I know way too much about fictional space ships
-
-### Top Languages and Tools:
+ Top Languages and Tools:
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
@@ -31,3 +24,11 @@ I'm passionate about gaming, game development, ethical AI, and computer hardware
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+</div>
+
+- 🔭 I’m currently a student of computer science at CESAR school
+- 🌱 I’m currently learning Python and AI
+- 👯 I’m looking to collaborate on college projects
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I know way too much about fictional space ships
